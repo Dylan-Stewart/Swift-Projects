@@ -1,7 +1,7 @@
 # Swift-Projects
 
 ## Calculator Project
-<img src="calculator1.png" width="200">
+<img src="calculator1.png" >
 <img src="calculator2.png" width="200">
 
 ## Memory Match Project
