@@ -7,7 +7,7 @@
 ## Memory Match Project
 <img src="memmatch3.png" width="300">
 <img src="memmatch1.png" width="250">
-<img src="memmatch2.png" width="300">
+<img src="memmatch2.png" width="350">
 
 ## Hangman Project
 <img src="hangman3.png" width="300">
