@@ -5,7 +5,7 @@
 <img src="calculator2.png" width="200">
 
 ## Memory Match Project
-<img src="memmatch3.png" width="200">
+<img src="memmatch3.png" width="400">
 <img src="memmatch1.png" width="200">
 <img src="memmatch2.png" width="200">
 
