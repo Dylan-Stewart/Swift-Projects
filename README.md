@@ -12,5 +12,5 @@
 
 ## Hangman Project
 <img src="hangman3.png" width="300">
-<img src="hangman1.png" width="250">
+<img src="hangman1.png" width="270">
 <img src="hangman2.png" width="250">
