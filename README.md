@@ -1,15 +1,15 @@
 # Swift-Projects
 
 # Calculator Project
-![Calculator Project](calculator1.png)
-![Calculator Project](calculator2.png)
+<img src="calculator1.png" width="200">
+<img src="calculator2.png" width="200">
 
-# Memory Match Project (credits to my friend Adam Ramasre :D)
-![Memory Match Project](memmatch3.png)
-![Memory Match Project](memmatch1.png)
-![Memory Match Project](memmatch2.png)
+# Memory Match Project
+<img src="memmatch3.png" width="200">
+<img src="memmatch1.png" width="200">
+<img src="memmatch2.png" width="200">
 
 # Hangman Project
-![Hangman Project](hangman3.png)
-![Hangman Project](hangman1.png)
-![Hangman Project](hangman2.png)
+<img src="hangman3.png" width="200">
+<img src="hangman1.png" width="200">
+<img src="hangman2.png" width="200">
