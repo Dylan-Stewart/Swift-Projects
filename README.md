@@ -12,4 +12,4 @@
 ## Hangman Project
 <img src="hangman3.png" width="200">
 <img src="hangman1.png" width="200">
-<img src="hangman2.png" width="200">
+<img src="hangman2.png" >
