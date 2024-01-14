@@ -5,7 +5,7 @@
 <img src="calculator2.png" width="200">
 
 ## Memory Match Project
-##### Special thanks to my friend Adam Ramasre for their contributions
+##### -Special thanks to my friend Adam Ramasre for their contributions
 <img src="memmatch3.png" width="300">
 <img src="memmatch1.png" width="250">
 <img src="memmatch2.png" width="350">
